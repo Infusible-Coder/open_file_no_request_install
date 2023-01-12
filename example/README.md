@@ -17,7 +17,6 @@ OpenFile.open("/sdcard/text.txt");
 ```
 {
             {".3gp",    "video/3gpp"},
-            {".apk",    "application/vnd.android.package-archive"},
             {".asf",    "video/x-ms-asf"},
             {".avi",    "video/x-msvideo"},
             {".bin",    "application/octet-stream"},
